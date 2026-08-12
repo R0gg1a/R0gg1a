@@ -2,7 +2,7 @@
 
 Hello! My name is **Eduardo Roggia Badke**, I'm **19 years old**, and I'm from **Rio Grande do Sul, Brazil**.
 
-I graduated from **Colégio Nossa Senhora de Fátima** and am currently studying **Python** while preparing to pursue a degree in **Software Engineering** or **Cybersecurity** *(I'm still deciding 😄).*
+I graduated from Colégio Nossa Senhora de Fátima and I'm currently studying Computer Science at UNINTER, while learning Python and exploring my future path in Software Engineering or Cybersecurity (I'm still deciding 😄).
 
 I'm just getting started in the tech world, and I've really been enjoying the journey so far. Here on GitHub, I share my projects, exercises, and studies as I continue to grow and improve as a developer.
 
